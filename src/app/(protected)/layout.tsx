@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+
 import Navigation from "@/components/Navigation";
 
 export default function ProtectedLayout({
